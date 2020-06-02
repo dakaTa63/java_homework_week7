@@ -1,4 +1,3 @@
 {TYPE}=[W]@{FNAME}=[Tony]@{LNAME}=[Stark]@{AGE}=[48]@{SEX}=[M]@{ADDRESS}=[StarkIndustries]@{PHONE}=[JarvisSmartPhone]@{SPECIAL_PROPERTY}::{SALARY}=[500000]
 {TYPE}=[R]@{FNAME}=[Steve]@{LNAME}=[Rogers]@{AGE}=[93]@{SEX}=[M]@{ADDRESS}=[BrooklynNewYork]@{PHONE}=[OldCellPhone]@{SPECIAL_PROPERTY}::{PENSION}=[901982]
 {TYPE}=[M]@{FNAME}=[Pepper]@{LNAME}=[Pots]@{AGE}=[44]@{SEX}=[F]@{ADDRESS}=[starkIndustries]@{PHONE}=[JarvisSmartPhone]@{SPECIAL_PROPERTY}::{KID}=[{KFNAME}=[Morgan]@{KLNAME}=[Stark]@{KAGE}=[4]]
-{TYPE}=[W]@{FNAME}=[Thor]@{LNAME}=[Odinson]@{AGE}=[1500]@{SEX}=[M]@{ADDRESS}=[Asgard]@{PHONE}=[doesNotUse]@{SPECIAL_PROPERTY}::{godOfThudnerrrrrr}=[⚡⚡⚡⚡⚡⚡⚡]
